@@ -1,2 +1,2 @@
-print('hello world')
+print('hello wo')
 print('mobile app')
